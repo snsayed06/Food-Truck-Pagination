@@ -1,0 +1,48 @@
+
+.content {
+  margin: 10vh auto;
+}
+
+.active {
+color: #11d811;
+}
+
+.horz-list ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+.horz-list ul li {
+  display: inline;
+  padding:10px;
+}
+
+.horz-list ul li{
+  text-decoration: none;
+  padding: 0.2em 0.5em;
+}
+
+.horz-list ul li:last-child {
+ border: none;
+}
+
+.horz-list ul li:hover {
+  background: rgba(255, 255, 255, 0.8);
+  color: #1a1a1a;
+}
+
+.red {
+  color: #f00606;
+}
+
+.green {
+  color: #11d811;
+}
+
+.disabled{
+  cursor: not-allowed;
+  pointer-events: none;
+  color: #c0c0c0;       
+}
