@@ -14,6 +14,8 @@ In the project directory, you can run:
 
 npm install
 
+Install the dependencies of the app
+
 ### `npm start`
 
 npm start
